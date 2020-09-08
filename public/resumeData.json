@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "João Fidalgo",
+    "occupation": "Student at Faculdade de Engenharia da Universidade do Porto (FEUP) 5th year",
+    "description": "Front end & backend developer, with skills in C++/ java/ javascript among other languages",
+    "image": "joaofidalgo.jpg",
+    "bio": "My name is Joao Fidalgo and I'm currently studying Computer Engeneering in FEUP, with a variety of knowledge about computers, algorithms and software development ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "wortzao@gmail.com",
+    "phone": "+351 934 831 300",
+    "address": {
+      "street": "Rua Capitao Sousa Dias n16",
+      "city": "Chaves",
+      "state": "Portugal",
+      "zip": "5400-520"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100001161389153",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jo%C3%A3o-fidalgo-158a4b1b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/joaobandeirapp/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/wortz",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Faculdade de Engenharia da Universidade do Porto",
+        "degree": "Taking Masters in Computer Engineering",
+        "graduated": "July 2021",
+        "description": "I'm currently in 5th year, the last on the masters degree"
+      }
+    ],
+    "work": [],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "C++",
+        "level": "55%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
+        "name": "C",
+        "level": "55%"
+      },
+      {
+        "name": "Project Managment",
+        "level": "50%"
+      }
+      ,
+      {
+        "name": "Interaction with clients",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS and Firebase",
+        "image": "amazonclone.PNG",
+        "url": "https://clone-74fb5.web.app/"
+      },
+      {
+        "title": "Sash Helper",
+        "category": "Helper for game metin2, created for a personal use, created with ReactJS",
+        "image": "sashHelper.PNG",
+        "url": "https://wortz.github.io/SashHelper/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I really liked your group and I would like that all the group finishs the application outside of the curse.",
+        "user": "Martin"
+      }
+    ]
+  }
+}
