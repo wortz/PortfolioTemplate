@@ -57,31 +57,38 @@
       },
       {
         "name": "CSS",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "C++",
-        "level": "55%"
-      },
-      {
-        "name": "Java",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "C",
         "level": "55%"
       },
       {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
         "name": "Project Managment",
         "level": "50%"
-      }
-      ,
+      },
       {
         "name": "Interaction with clients",
+        "level": "30%"
+      },
+      {
+        "name": "Web security",
+        "level": "30%"
+      },
+      {
+        "name": "Parallel Programing",
         "level": "30%"
       }
     ]
